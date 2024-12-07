@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Navy Colors -->
+    <color name="color_primary">#1B3B6F</color>       <!-- Deep Navy -->
+    <color name="color_primary_light">#2C5494</color> <!-- Lighter Navy -->
+    <color name="color_primary_dark">#102344</color>  <!-- Darker Navy -->
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#F5F5F5</color>         <!-- For backgrounds -->
+    <color name="gray_medium">#757575</color>        <!-- For secondary text -->
+    <color name="black">#000000</color>
+
+    <!-- Accent Color (if needed) -->
+    <color name="color_accent">#4A90E2</color>       <!-- Sky Blue -->
+
+    <!-- System Colors -->
+    <color name="splash_background">@color/white</color>
+
+    <!-- Status/Feedback Colors -->
+    <color name="success">#28A745</color>            <!-- For success messages -->
+    <color name="error">#DC3545</color>              <!-- For error messages -->
+</resources>

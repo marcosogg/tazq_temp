@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tazq</string>
+    <string name="taskTitle">Task Manager</string>
+    <string name="taskSubtitle">Manage Your Tasks</string>
+    <string name="addTaskButton">Add Task</string>
+    <string name="high_priority">High Priority</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="task_title">Title</string>
+    <string name="total_tasks">Total Tasks: </string>
+    <string name="task_count">%d</string>
+    <string name="task_limit_exceeded">Cannot add more than 50 tasks</string>
+    <string name="taskListTitle">Tasks List</string>
+    <string name="empty_list">No Tasks Yet - Create Your First Task!</string>
+    <string name="defaultTitle">Untitled</string>
+    <string name="defaultPriority">Medium</string>
+    <string name="defaultDescription">No description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+    <string name="about_title">Task Manager</string>
+    <string name="about_message">Welcome to Tazq\n\nA family-friendly task management app.\n\nOrganize, assign, and complete tasks together!</string>
+    <string name="splash_subtitle">Task Management Made Simple</string>
+</resources>

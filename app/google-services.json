@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902239075130",
+    "project_id": "tazqapp",
+    "storage_bucket": "tazqapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902239075130:android:0000d115b4be83ff62ee03",
+        "android_client_info": {
+          "package_name": "ie.setu.tazq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902239075130-86dv35oku0f1i6qsdie9uqjc1ipqpkk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.setu.tazq",
+            "certificate_hash": "815e273301838701a8edab50ed2bdecc22fb1f67"
+          }
+        },
+        {
+          "client_id": "902239075130-s2kst3r3t9tccdqfco53bi9a6fh5kf7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjS4BEtj6BP5MZD7bKC9hJKg_HtGk0mUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902239075130-s2kst3r3t9tccdqfco53bi9a6fh5kf7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
